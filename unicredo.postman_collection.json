@@ -1,0 +1,94 @@
+{
+	"info": {
+		"_postman_id": "49b459e6-86b4-40f8-9615-bf0844a4b47b",
+		"name": "unicredo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "39976745"
+	},
+	"item": [
+		{
+			"name": "POST /api/task",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"title\": \"New Task4\",\n    \"description\": \"Task description\",\n    \"status\": \"pending\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8000/api/task"
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/tasks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8000/api/task"
+			},
+			"response": []
+		},
+		{
+			"name": "PUT /api/task",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"title\": \"Updated Task4\",\n    \"description\": \"Updated description\",\n    \"status\": \"completed\"\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8000/api/task/3"
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE /api/task",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8000/api/task/5"
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/task",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8000/api/task/1"
+			},
+			"response": []
+		}
+	]
+}
