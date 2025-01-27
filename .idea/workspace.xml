@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa7bf80f-6090-4e29-ab96-f04bbc19bed4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task-manager-api/src/Service/TaskService.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/task-manager-api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/type-info" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/task-manager-api/vendor/doctrine/doctrine-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2sChKjNO51THKxadIg4ddZJmz9j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7bf80f-6090-4e29-ab96-f04bbc19bed4" name="Default Changelist" comment="" />
+      <created>1737965401159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737965401159</updated>
+      <workItem from="1737965402189" duration="1844000" />
+      <workItem from="1737968856769" duration="12348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="908" y="453" width="800" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1737979021902">
+      <screen x="66" y="32" width="2494" height="1408" />
+    </state>
+    <state x="908" y="453" width="800" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog/66.32.2494.1408/2560.202.1920.1080@66.32.2494.1408" timestamp="1737979021902" />
+    <state x="1046" y="623" width="524" height="454" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1737982983061">
+      <screen x="66" y="32" width="2494" height="1408" />
+    </state>
+    <state x="1046" y="623" width="524" height="454" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/66.32.2494.1408/2560.202.1920.1080@66.32.2494.1408" timestamp="1737982983061" />
+    <state x="1108" y="753" width="399" height="151" key="NewPhpFileDialog" timestamp="1737981678006">
+      <screen x="66" y="32" width="2494" height="1408" />
+    </state>
+    <state x="1108" y="753" width="399" height="151" key="NewPhpFileDialog/66.32.2494.1408/2560.202.1920.1080@66.32.2494.1408" timestamp="1737981678006" />
+    <state x="66" y="152" width="2294" height="1171" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1737983041565">
+      <screen x="66" y="32" width="2494" height="1408" />
+    </state>
+    <state x="66" y="152" width="2294" height="1171" key="com.intellij.history.integration.ui.views.FileHistoryDialog/66.32.2494.1408/2560.202.1920.1080@66.32.2494.1408" timestamp="1737983041565" />
+    <state x="1007" y="486" width="784" height="536" key="find.popup" timestamp="1737967242986">
+      <screen x="66" y="32" width="2494" height="1408" />
+    </state>
+    <state x="1007" y="486" width="784" height="536" key="find.popup/66.32.2494.1408/2560.202.1920.1080@66.32.2494.1408" timestamp="1737967242986" />
+    <state x="976" y="380" width="672" height="678" key="search.everywhere.popup" timestamp="1737973892015">
+      <screen x="66" y="32" width="2494" height="1408" />
+    </state>
+    <state x="976" y="380" width="672" height="678" key="search.everywhere.popup/66.32.2494.1408/2560.202.1920.1080@66.32.2494.1408" timestamp="1737973892015" />
+  </component>
+</project>
