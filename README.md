@@ -13,4 +13,5 @@ composer require lexik/jwt-authentication-bundle
 
 Запустите сервак php -S localhost:8000 -t public/
 
-проверяйте коллекцию запросов через postman
+проверяйте коллекцию запросов через postman установив заранее коллекцию 
+(файл unicredo.postman_collection.json)
